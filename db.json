@@ -988,29 +988,6 @@
             "hdmg2": null,
             "hdmg3": null,
             "imageURL": "https://static.wikia.nocookie.net/battlegrounds_gamepedia_en/images/7/72/Icon_weapon_Machete.png/revision/latest?cb=20170410184224"
-        },
-        {
-            "weaponName": "Punch",
-            "weaponType": "Melee",
-            "bulletType": null,
-            "damage": 18,
-            "magazineCapacity": 1,
-            "range": null,
-            "bulletSpeed": null,
-            "rateOfFire": 0.33,
-            "shotsToKillChest": 10,
-            "shotsToKillHead": 4,
-            "damagePerSecond": 55,
-            "fireMode": "Single",
-            "bdmg0": null,
-            "bdmg1": null,
-            "bdmg2": null,
-            "bdmg3": null,
-            "hdmg0": null,
-            "hdmg1": null,
-            "hdmg2": null,
-            "hdmg3": null,
-            "imageURL": "https://image.freepik.com/free-vector/vintage-human-fist-punch_153969-16.jpg"
         }
     ]
 }
